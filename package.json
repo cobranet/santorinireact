@@ -2,6 +2,7 @@
   "name": "santorini",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -9,6 +10,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
+    "three": "^0.126.0",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
@@ -34,5 +36,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    
   }
+
 }
